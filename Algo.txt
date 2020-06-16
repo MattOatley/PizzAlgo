@@ -2,3 +2,5 @@ Call Dominos
 Order the two topping medium 
 Add Pepp
 Add Blk Olv
+Ask for Price 
+Ask for time
